@@ -111,5 +111,5 @@ while True :
 	x2 = input("Enter x2 ")
 	v = lineLayer(x1,x2,coef)
 	y = np.matrix(phi(v))
-	print "the class is " clf.predict(y)
+	print "the class is ", clf.predict(y)[0]
 

@@ -19,9 +19,5 @@ you should see the photo in the repo to understand the classification objective
 
 
 
-
-
-
-
-
-# Special thanks to Abdullah Alsaidi (me)
+******************
+Abdullah Alsaidi
